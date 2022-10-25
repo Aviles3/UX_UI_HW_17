@@ -1,6 +1,7 @@
 .inline-block {
     display: inline-block;
     vertical-align: top;
+    background-color: lightgray;
 }
 .logo {
     width: 23%;
@@ -10,26 +11,21 @@
 nav {
     width: 73%;
     padding: 1%;
-    color: white; 
-    position: relative;
-    background-color: black;
 }
 ul {
-    width: 25%;
-    margin-left: 33%;
-    display: flex;
-    justify-content: space-between;
-    
+    width: 50%;
+    margin-left: auto; 
 }
 .heroImg {
     height: 600px;
     padding: 25px;
 }
 body {
-    background-color: gray;
+    background-color: antiquewhite;
 }
 .content {
-    width: 600px;
+    width: 500px;
+    margin: 0 auto;
 }
 .me {
     width: 500px;
